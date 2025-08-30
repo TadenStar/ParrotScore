@@ -1,9 +1,0 @@
-{
-  "name": "timeline-3d-web",
-  "version": "1.0.0",
-  "description": "3D timeline environment for web testing",
-  "scripts": {
-    "start": "python3 -m http.server 8000",
-    "test": "echo 'No tests specified'"
-  }
-}
